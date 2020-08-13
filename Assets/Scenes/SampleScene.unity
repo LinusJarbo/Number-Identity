@@ -750,7 +750,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 400
+  orthographic size: 300
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -1261,7 +1261,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: '12 Aug 2020, Linus Jarbo, Hugo Angulo
 
-    Version: 1.0 WebGL export'
+    Version: 1.1 WebGL export'
 --- !u!222 &1055623765
 CanvasRenderer:
   m_ObjectHideFlags: 0
